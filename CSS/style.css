@@ -1,0 +1,22 @@
+#results{
+    margin: auto;
+ }
+ #icons{
+     word-spacing: 20px;
+     
+ }
+ #icons a {
+     color: white;
+ }
+ #mail:hover{
+     color: red;
+ }
+ #linkedin:hover{
+     color: blue;
+ }
+ #insta:hover{
+     color: hotpink;
+ }
+ #github:hover{
+     color: darkgray;
+ }
